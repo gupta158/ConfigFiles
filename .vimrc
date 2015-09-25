@@ -13,3 +13,9 @@ set smarttab
 
 " always uses spaces instead of tab characters
 set expandtab
+
+" set colorscheme
+colorscheme evening
+
+" turn syntax highlighting on
+set syntax=on
