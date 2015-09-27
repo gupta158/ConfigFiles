@@ -19,3 +19,6 @@ colorscheme evening
 
 " turn syntax highlighting on
 set syntax=on
+
+" turn line numbers on
+set number
