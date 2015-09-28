@@ -22,3 +22,6 @@ set syntax=on
 
 " turn line numbers on
 set number
+
+" highlight search results
+set hlsearch
