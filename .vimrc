@@ -25,3 +25,12 @@ set number
 
 " highlight search results
 set hlsearch
+
+" Ignore case search
+set ignorecase
+
+" Matches if at least one character is uppercase
+set smartcase
+
+" Incremental search, as you type
+set incsearch
