@@ -33,4 +33,7 @@ set ignorecase
 set smartcase
 
 " Incremental search, as you type
-set incsearch
+" set incsearch
+
+" Change highlight color for search 
+highlight Search ctermfg=white ctermbg=red
